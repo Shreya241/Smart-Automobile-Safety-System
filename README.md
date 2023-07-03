@@ -1,3 +1,10 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Shreya241/Movie-Suggestion-App)
+![GitHub followers](https://img.shields.io/github/followers/Shreya241?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/s_h_r_e_y_a_agr?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/Shreya241/Movie-Suggestion-App)
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 # IoT-based Smart-Automobile-Safety-System
 
 In this study, we propose an Internet of Things (IoT)-based system for accident prevention, prediction, detection, and alerting. The system aims to lower the rate of traffic accidents by utilizing various sensors installed in a car and an IoT platform for data interpretation.
@@ -41,3 +48,9 @@ We have tested the suggested technique in several settings and achieved good suc
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/Shreya241/Movie-Suggestion-App/blob/main/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/shreya--agrawal/
